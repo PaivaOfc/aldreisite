@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Substitua pelo código hexadecimal real (HEX) do Figma */
+  --color-brand-pink: #C5837A; 
+  --color-brand-light: #FFF0F4;
+  --color-brand-dark: #333333;
+  --color-brand-gray: #666666;
+  --color-brand-blue: #314259;
+}
+html {
+  scroll-behavior: smooth;
+}
